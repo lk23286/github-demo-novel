@@ -2,3 +2,15 @@ valami a megint van itt
 meg ittm
 adok még hozzá
 
+How about Jordan?
+
+I'm going to make a lowercase J.
+
+And I'm going to save this file.
+
+If I run get status, now we see something new.
+
+It says there's a modified file outline.
+
+It doesn't matter that I just changed the case of a lette
+
